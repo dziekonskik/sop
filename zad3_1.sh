@@ -1,3 +1,5 @@
+#!/bin/bash
+
 directory="$1"
 
 if [[ ! -d "$directory" ]]; 

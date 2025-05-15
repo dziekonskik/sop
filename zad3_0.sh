@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ -w "$0" ]; then
     chmod -w "$0"; else
     chmod +w "$0";

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 arg_num=$1
 
 i=1
