@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 for dir in $(ls /); do
   if [[ "$dir" == b* || "$dir" == c* || "$dir" == e* ]]; then
